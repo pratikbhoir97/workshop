@@ -12,15 +12,10 @@ void public static void main(String[] args) {
 
 
 class Init{
-int position =0;
+int position;
     playerInitialPosition(){
         position = 0;
     }
      
-    int throwDice(){
-    int dice = rand.nextInt(6)+1; 
-    return dice;
-    }
-
 
 }
