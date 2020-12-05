@@ -7,7 +7,6 @@ void public static void main(String[] args) {
 
 }
 
-
 }
 
 
@@ -16,6 +15,5 @@ int position;
     playerInitialPosition(){
         position = 0;
     }
-     
-
+    
 }
